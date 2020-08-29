@@ -1,7 +1,7 @@
 # Honeybee
 ## Overview
 * The goal is to run a trained TensorFlow model to classify English Premier League (EPL) crests via a webcam and a website
-* Project using Bubble app builder
+* The project uses the Bubble app builder
 
 ## Front End (design)
 
