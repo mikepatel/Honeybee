@@ -9,3 +9,6 @@
 
 ## Workflow (functionality)
 * Events and Actions
+
+## To Do
+* Develop a Javascript plugin to run a ML algorithm in Bubble
